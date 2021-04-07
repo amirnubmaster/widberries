@@ -1,0 +1,335 @@
+body{
+    margin: 0;
+}
+
+
+.top{
+    background: rgb(235,0,255);
+background: linear-gradient(90deg, rgba(235,0,255,1) 5%, rgba(226,0,254,1) 21%, rgba(222,0,255,1) 35%, rgba(222,0,255,1) 49%, rgba(167,19,252,1) 65%, rgba(136,27,255,1) 81%, rgba(137,1,255,1) 100%);
+    width: 100%;
+    height: 35vh;
+}
+
+.vverx{
+    width: 100%;
+}
+
+.vverx ul{
+    margin: 0 auto;
+    display: inline-flex;
+}
+
+.vverx ul li{
+    padding: 25px 20px;
+    list-style: none;
+    margin: 0 auto;
+}
+
+.vverx ul li a{
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    margin: 0 auto;
+    padding: 5px 20px;
+    transition: 1s;
+    border: 0px solid white;
+    border-radius: 20px;
+}
+
+.vverx ul li a:hover{
+    background-color: rgba(255, 255, 255, 0.4);
+}
+
+
+
+.wild{
+    display: inline-flex;
+}
+
+
+.wild ol li{
+    
+    list-style: none;
+}
+
+.wild ol li a{
+    margin-left: 35px;
+    text-decoration: none;
+    color: white;
+    font-size: 40px;
+}
+
+.wild ul li{
+    position: relative;
+    color: white;
+    font-size: 30px;
+    list-style: none;
+    margin-top: 5px;
+}
+
+.wild ul li i{
+    position: absolute;
+    left: 420px;
+    top: 20px;
+    font-size: 25px;
+    color: lightgrey;
+}
+
+
+.iwy{
+    display: inline-flex;
+}
+
+.iwy ul li input{
+    color: white;
+    font-size: 15px;
+    border: 0px solid white;
+    border-radius: 15px;
+    padding: 15px 20px;
+    padding-right: 250px;
+    background-color: rgba(255, 255, 255, 0.3);
+}
+
+.iwy ol{
+    display: inline-flex;
+}
+
+.iwy ol li a{
+    font-size: 30px;
+}
+
+.iwy ol li a i{
+    padding-top: 15px;
+}
+
+.iwy ol li a p{
+    margin: 0 10px;
+    font-size: 22px;
+}
+
+.iwy ol li{
+    margin: auto 20px;
+}
+
+
+
+
+
+
+
+
+
+.photo{
+    width: 96%;
+    margin-top: -30px;
+    height: 100vh;
+    padding: 25px;
+    border-radius: 35px;
+    background: white;
+}
+
+.photo img{
+    border-radius: 50px;
+    width: 100%;
+    height: 500px;
+}
+
+
+.center{
+    width: 100%;
+    height: 100vh;
+}
+
+.around{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-bottom: 45px;
+}
+
+.center h1{
+    margin-left: 30px;
+    font-size: 35px;
+}
+
+
+
+    
+.card1 h3{
+    margin: 5px auto;
+}
+
+.card1 P{
+    color: gray;
+}
+
+
+
+.around2{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-bottom: 45px;
+}
+
+.mda{
+    display: inline-flex;
+    margin-left: 20px;
+}
+
+.card2 img{
+    width: 90%;
+    border-radius: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+.brends{
+    margin-top: 250%;
+    width: 100%;
+    height: 100vh;
+}
+
+.ey{
+    margin: 20px 20px;
+    display: inline-flex;
+}
+
+.ey h1{
+    font-size: 40px;
+}
+
+.ey h3{
+    font-size: 25px;
+    margin: 45px 20px;
+    color: darkmagenta;
+}
+
+.brend{
+    margin-top: -20px;
+    display: flex;
+    width: 100%;
+}
+
+.brend ul{
+    display: inline-flex;
+}
+
+.brend ul li{
+    padding: 0 15px;
+    list-style: none;
+}
+
+.brend ul li a{
+    color: black;
+    text-decoration: none;
+    border: 1px solid black;
+    border-radius: 30px;
+    padding: 10px 20px;
+}
+
+.ugu{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.the{
+    margin-top: 150px;
+    width: 100%;
+    height: 140vh;
+    background: rgb(62,8,66);
+background: linear-gradient(90deg, rgba(62,8,66,1) 0%, rgba(108,33,117,1) 21%, rgba(139,37,154,1) 35%, rgba(145,37,203,1) 49%, rgba(190,14,247,1) 65%, rgba(192,65,255,1) 81%, rgba(147,16,198,1) 100%);
+}
+
+.end{
+    display: inline-flex;
+}
+
+.uls{
+    padding-top: 20px;
+    margin: 20px 20px; 
+    color: white;
+}
+
+.uls ul li{
+    margin-right: 60px;
+    list-style: none;
+    margin-bottom: 20px;
+}
+
+.uls ul li a{
+    padding: 0;
+    color:lightgrey;
+    text-decoration: none;
+}
+
+.uls ol li img{
+    margin: 0 0;
+    width: 50%;
+    margin-right: -500px;
+}
+
+.uls ol li{
+    list-style: none;
+}
+
+.uls ol li a{
+    color: lightgrey;
+}
+
+
+
+.niz{
+    text-align: center;
+
+}
+
+.ols ol{
+    display: inline-flex;
+}
+
+.ols ol li{
+    list-style: none;
+    margin: 0 20px;
+}
+
+.ols ol li a{
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 20px;
+    border: 1px solid white;
+}
+
+.eweNizje{
+    color:silver;
+}
+
+.eweNizje a{
+    color: silver;
+}
+
+.eweNizje i{
+    color: snow;
+    padding: 15px 5px;
+    font-size: 30px;
+}
